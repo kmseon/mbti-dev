@@ -1,4 +1,10 @@
 export const questions = [
+  // questions 배열 
+  // questions[0]
+  // questions[0].number ---> 01
+  //questions[0].question ---> question :''
+  //questions[0].choices[0].text ---> text :''
+  //questions[0].choices[0].value ---> i 
   {
     number: '01',
     question: '곧 크리스마스! 회사에서 크리스마스 파티 스텝을 모집한다는데?',
